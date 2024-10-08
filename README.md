@@ -19,3 +19,7 @@ Este repositorio contiene una colección de ejercicios iniciales utilizando la b
 - **Seaborn**: Biblioteca para la visualización estadística basada en Matplotlib.
 - **Jupyter Notebook**: Entorno interactivo para escribir y ejecutar código Python.
  
+## Contacto
+- Luna Outerelo Fernández.
+- Email: lunaouterelo9@gmail.com
+- Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
